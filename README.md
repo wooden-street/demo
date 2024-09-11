@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Wooden Street's Useful Links</title>
+    <meta name="google-site-verification" content="1Xw_L5HFH-w3h3lerU1-vZCS1ZpnexyFjwKa0RiWAT4" />
 </head>
 <body>
     <a href="https://180degreehealth.com/180forums/users/sidetable/">https://180degreehealth.com/180forums/users/sidetable/</a><br>
